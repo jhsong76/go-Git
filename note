@@ -1,3 +1,7 @@
 
 git config --global init.defaultBranch main
  # main으로 변경
+
+git init 
+ # 최초 1회
+ 
