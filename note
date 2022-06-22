@@ -1,0 +1,20 @@
+
+git config --global init.defaultBranch main
+ # main으로 변경
+
+git init 
+ # 최초 1회
+ .git 폴더 생성 - .git 폴더가 생성된 폴더는 git이 관리하기 시작
+ 
+git status 
+현재 git 상태 
+
+git add .
+모든 파일 스테이징
+
+git log
+커밋 로그 확인
+
+git reset --hard 커밋해쉬코드(번호)
+커밋번호에 해당하는 커밋으로 코드를 롤백 
+ 
