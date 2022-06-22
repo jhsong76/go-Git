@@ -1,1 +1,3 @@
-git remote add origin 레포주소
+git remote  origin 레포주소
+
+추가하기
